@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalpallerla
 - 👀 I’m interested in Developer Advocacy
-- 🌱 I’m currently learning bloackchain stuff
-- 💞️ I’m looking to collaborate on Bloackchain projects
+- 🌱 I’m currently learning blockchain stuff
+- 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me : Twiiter @VishalPallerla
 
 <!---
